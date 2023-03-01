@@ -1,8 +1,8 @@
 import styles from "../style";
-import 
-
-const Hero = () => (
-    <section id="home" className= {``}></section>
+const Hero = () => {
+  return (
+    <div>Hero</div>
   )
+}
 
 export default Hero
